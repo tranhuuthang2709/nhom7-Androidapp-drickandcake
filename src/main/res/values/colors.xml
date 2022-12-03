@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="shadowncolor">#2E2E2E</color>
+    <color name="navcolor">#FFA87A</color>
+    <color name="bg">#FFBD59</color>
+    <color name="vang">#F6C752</color>
+    <color name="defaultcolor">#F6F6F6</color>
+    <color name="selected">#04E1F8</color>
+    <color name="red">	#FF0000</color>
+    <color name="node">#F6E0BF</color>
+    <color name="nen">#FFBD59</color>
+    <color name="gray">#A44F30</color>
+    <color name="mauchu">#793825</color>
+    <color name="mautrove">#FDF3BB</color>
+    <color name="afternau">#A44F30</color>
+    <color name="maumon">#525151</color>
+    <color name="tien">#BC1823</color>
+    <color name="btn">#FFA87A</color>
+    <color name="btngio">#793825</color>
+    <color name="retangle_boder1">#F8D29B</color>
+    <color name="circle_noneboder">#ECEDDA</color>
+    <color name="nenmenu">#FBBC05</color>
+    <color name="backgroundcolor">#FFC659</color>
+    <color name="textcolor">#793825</color>
+</resources>

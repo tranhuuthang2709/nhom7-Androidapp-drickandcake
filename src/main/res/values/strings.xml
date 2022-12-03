@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrinkAndCake</string>
+    <string name="action_home">Trang chủ</string>
+    <string name="action_profile">Cá nhân</string>
+    <string name="action_cart">Giỏ hàng</string>
+    <string name="action_history">Đơn đã đặt</string>
+
+</resources>
